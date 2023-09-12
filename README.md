@@ -4,6 +4,13 @@
 
 ## 프로젝트 소개
 유아용품 쇼핑몰의 고객 맞춤 마케팅과 제품 추천 시스템 개발을 통한 재구매율 증대 전략 제시하는 프로젝트
+<br>
+
+## 프로젝트 기술 스택
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white" align="center" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"  align="center" />
+<img src="https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"  align="center" />
+<img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"  align="center" />
 
 ## 어려웠던 점
 실제 기업 데이터를 제공받아서 프로젝트를 진행했는데 데이터의 도메인을 이해하는데 시간이 많이 소요되었던 점
