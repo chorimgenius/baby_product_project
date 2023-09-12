@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"  align="center" />
 
 ## 어려웠던 점
-실제 기업 데이터를 제공받아서 프로젝트를 진행했는데 데이터의 도메인을 이해하는데 시간이 많이 소요되었던 점
+실제 기업 데이터를 제공받아서 프로젝트를 진행했는데 데이터의 도메인을 이해하는데 시간이 많이 소요되었던 점  
 실제 데이터에서 전처리하는 과정이 어려웠다.
 
 
